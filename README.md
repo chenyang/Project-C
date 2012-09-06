@@ -31,15 +31,15 @@ Use of the program:
 ATTENTION : Please type exactly the number that is purposed or else you risk of blocking the program.
 
 
-
-FRENCH:
+============================
+FRANCAIS:
 
 Présentation du programme
 
 Dili5 est un programme permettant de traiter des données géo localisées provenant de fichier afin de les afficher graphiquement sur une carte fournie par GOOGLE MAPS.
 
 
-	Fonctionnalités
+Fonctionnalités
 	 
 Le programme que nous vous proposons vous permettra de réaliser les fonctionnalités suivantes:
 	
@@ -48,7 +48,7 @@ Le programme que nous vous proposons vous permettra de réaliser les fonctionnal
 	3) Calculer l'arbre recouvrant minimal et l'afficher su Google map
 
 
-	Installation du programme
+Installation du programme
 
 Pour lancer le programme suivez les instructions suivantes:
 
@@ -59,7 +59,7 @@ Pour lancer le programme suivez les instructions suivantes:
 	5) Tapez la commande : ./main
 
 
-	Utilisation du programme
+Utilisation du programme
 
 Pour utiliser correctement le programme suivez les instructions suivantes:
 
