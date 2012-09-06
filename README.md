@@ -31,10 +31,9 @@ ATTENTION : Please type exactly the number that is purposed or else you risk of 
 
 
 Group members:
-
-Aymane Elasri
-Chenyang GAO
-Lydia Rahmani
-Sanae Basraoui
+	Aymane Elasri, 
+	Chenyang GAO, 
+	Lydia Rahmani, 
+	Sanae Basraoui
 
 
