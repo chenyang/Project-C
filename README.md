@@ -4,6 +4,7 @@ Project-C
 French Airlines on Google Map
 
 ENGLISH:
+--------
 
 Program presentation:
 
@@ -31,8 +32,10 @@ Use of the program:
 ATTENTION : Please type exactly the number that is purposed or else you risk of blocking the program.
 
 
-============================
+
 FRANCAIS:
+---------
+
 
 Présentation du programme
 
