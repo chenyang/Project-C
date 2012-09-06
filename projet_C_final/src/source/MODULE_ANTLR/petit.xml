@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0"><Document><name>World Gazetteer: France</name>
+
+<Style id="ploc"><IconStyle><scale>0.16192057648628</scale><Icon><href>http://www.world-gazetteer.com/gr/ploc.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.62109207352962</scale></LabelStyle></Style>
+
+<Placemark><name>Paris</name><description><![CDATA[<font face="Tahoma">population: 2187534<br>division: Île-de-France<br>reference: <a href="http://www.world-gazetteer.com/wg.php?men=gpro&amp;des=gamelan&amp;geo=499914234">World Gazetteer</a><br></font>]]></description><styleUrl>#p2m</styleUrl><Point><coordinates>2.34,48.86,0</coordinates></Point></Placemark>
+
+<Placemark><name>Marseille</name><description><![CDATA[<font face="Tahoma">population: 779679<br>division: Provence-Alpes-Côte-d'Azur<br>reference: <a href="http://www.world-gazetteer.com/wg.php?men=gpro&amp;des=gamelan&amp;geo=479934537">World Gazetteer</a><br></font>]]></description><styleUrl>#p500k</styleUrl><Point><coordinates>5.37,43.31,0</coordinates></Point></Placemark></Document></kml>

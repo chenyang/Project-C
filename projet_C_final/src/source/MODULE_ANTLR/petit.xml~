@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0"><Document><name>World Gazetteer: France</name>
+
+<Style id="p5m"><IconStyle><scale>1.2</scale><Icon><href>http://www.world-gazetteer.com/gr/p5m.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>2</scale></LabelStyle></Style>
+
+<Style id="p2m"><IconStyle><scale>1.05</scale><Icon><href>http://www.world-gazetteer.com/gr/p2m.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.85</scale></LabelStyle></Style>
+
+<Style id="p1m"><IconStyle><scale>0.91875</scale><Icon><href>http://www.world-gazetteer.com/gr/p1m.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.71125</scale></LabelStyle></Style>
+
+<Style id="p500k"><IconStyle><scale>0.80390625</scale><Icon><href>http://www.world-gazetteer.com/gr/p500k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.58290625</scale></LabelStyle></Style>
+
+<Style id="p200k"><IconStyle><scale>0.70341796875</scale><Icon><href>http://www.world-gazetteer.com/gr/p200k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.46418828125</scale></LabelStyle></Style>
+
+<Style id="p100k"><IconStyle><scale>0.61549072265625</scale><Icon><href>http://www.world-gazetteer.com/gr/p100k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.3543741601563</scale></LabelStyle></Style>
+
+<Style id="p50k"><IconStyle><scale>0.53855438232422</scale><Icon><href>http://www.world-gazetteer.com/gr/p50k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.2527960981445</scale></LabelStyle></Style>
+
+<Style id="p20k"><IconStyle><scale>0.47123508453369</scale><Icon><href>http://www.world-gazetteer.com/gr/p20k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.1588363907837</scale></LabelStyle></Style>
+
+<Style id="p10k"><IconStyle><scale>0.41233069896698</scale><Icon><href>http://www.world-gazetteer.com/gr/p10k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.0719236614749</scale></LabelStyle></Style>
+
+<Style id="p5k"><IconStyle><scale>0.36078936159611</scale><Icon><href>http://www.world-gazetteer.com/gr/p5k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.9915293868643</scale></LabelStyle></Style>
+
+<Style id="p2k"><IconStyle><scale>0.31569069139659</scale><Icon><href>http://www.world-gazetteer.com/gr/p2k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.91716468284947</scale></LabelStyle></Style>
+
+<Style id="p1k"><IconStyle><scale>0.27622935497202</scale><Icon><href>http://www.world-gazetteer.com/gr/p1k.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.84837733163576</scale></LabelStyle></Style>
+
+<Style id="p500"><IconStyle><scale>0.24170068560052</scale><Icon><href>http://www.world-gazetteer.com/gr/p500.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.78474903176308</scale></LabelStyle></Style>
+
+<Style id="p200"><IconStyle><scale>0.21148809990045</scale><Icon><href>http://www.world-gazetteer.com/gr/p200.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.72589285438085</scale></LabelStyle></Style>
+
+<Style id="p100"><IconStyle><scale>0.1850520874129</scale><Icon><href>http://www.world-gazetteer.com/gr/p100.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.67145089030229</scale></LabelStyle></Style>
+
+<Style id="ploc"><IconStyle><scale>0.16192057648628</scale><Icon><href>http://www.world-gazetteer.com/gr/ploc.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>0.62109207352962</scale></LabelStyle></Style>
+
+<Placemark><name>Paris</name><description><![CDATA[<font face="Tahoma">population: 2187534<br>division: Île-de-France<br>reference: <a href="http://www.world-gazetteer.com/wg.php?men=gpro&amp;des=gamelan&amp;geo=499914234">World Gazetteer</a><br></font>]]></description><styleUrl>#p2m</styleUrl><Point><coordinates>2.34,48.86,0</coordinates></Point></Placemark>
+
+<Placemark><name>Marseille</name><description><![CDATA[<font face="Tahoma">population: 779679<br>division: Provence-Alpes-Côte-d'Azur<br>reference: <a href="http://www.world-gazetteer.com/wg.php?men=gpro&amp;des=gamelan&amp;geo=479934537">World Gazetteer</a><br></font>]]></description><styleUrl>#p500k</styleUrl><Point><coordinates>5.37,43.31,0</coordinates></Point></Placemark></Document></kml>

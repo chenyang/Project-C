@@ -1,0 +1,11 @@
+Marcq-en-Baroeul,39409,50.67N,3.07E
+Marguerittes,9358,43.85N,4.45E
+Marignane,37625,43.42N,5.22E
+Marly,11573,49.07N,6.15E
+Marly,11572,50.35N,3.55E
+Marly-le-Roi,18082,48.87N,2.07E
+Marmande,19718,44.50N,0.15E
+Maromme,12220,49.48N,1.02E
+Marquette-lez-Lille,10793,50.66N,3.07E
+Marseille,779679,43.31N,5.37E
+Martigues,47429,43.41N,5.04E

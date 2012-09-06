@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0"><Document><name>World Gazetteer: France</name>
+
+<Style id="p5m"><IconStyle><scale>1.2</scale><Icon><href>http://www.world-gazetteer.com/gr/p5m.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>2</scale></LabelStyle></Style>
+
+<Style id="p2m"><IconStyle><scale>1.05</scale><Icon><href>http://www.world-gazetteer.com/gr/p2m.png</href></Icon></IconStyle><LabelStyle><color>ffccaacc</color><scale>1.85</scale></LabelStyle></Style>

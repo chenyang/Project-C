@@ -1,0 +1,2 @@
+test_MODULE_DIJKSTRA:
+	gcc -o test_MODULE_ARBRE test_MODULE_ARBRE.c -L../../src/static_lib/ -lMODULE_ARBRE -lMODULE_FICHIER -lMODULE_GLOBALE -lm
