@@ -34,4 +34,5 @@ Group members:
 	Lydia Rahmani, 
 	Sanae Basraoui
 
-
+For more details, 
+http://chenyanggao.info/#/project_detail/french_airline
